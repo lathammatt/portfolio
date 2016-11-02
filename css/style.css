@@ -52,3 +52,22 @@ footer.page-footer {
   max-height: 300px;
   margin: auto;
 }
+
+/*img.profile {
+  height: 225px;
+  /*background-image: url('/images/3croppedsmall.png')*/
+/*}*/
+/*
+img.profile:hover {
+  height: 225px;
+  background-image: url('/images/3oddsmall.png');
+}*/
+
+/*.tech {
+  max-height: 100px;
+  max-width: 100px;
+}*/
+
+.techrow {
+  height: 120px;
+}
