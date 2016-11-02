@@ -49,19 +49,19 @@ footer.page-footer {
 }
 
 .circle {
-  max-height: 300px;
+  max-height: 225px;
   margin: auto;
 }
 
-/*img.profile {
+img.profile {
   height: 225px;
   /*background-image: url('/images/3croppedsmall.png')*/
-/*}*/
-/*
+}
+
 img.profile:hover {
   height: 225px;
   background-image: url('/images/3oddsmall.png');
-}*/
+}
 
 /*.tech {
   max-height: 100px;
