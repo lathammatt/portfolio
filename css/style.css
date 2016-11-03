@@ -12,7 +12,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 680px;
+  min-height: 650px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
@@ -50,16 +50,16 @@ footer.page-footer {
 }
 
 .circle {
-  max-height: 275px;
-  margin: 35px auto;
+  max-height: 325px;
+  margin: 55px auto;
 }
 
 img.profile {
-  height: 275px;
+  height: 325px;
 }
 
 img.profile:hover {
-  height: 275px;
+  height: 325px;
 }
 
 .techwide {
