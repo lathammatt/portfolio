@@ -63,11 +63,12 @@ img.profile:hover {
   background-image: url('/images/3oddsmall.png');
 }
 
-/*.tech {
-  max-height: 100px;
-  max-width: 100px;
-}*/
+.techwide {
+  margin-top: 20px;
+}
 
 .techrow {
   height: 120px;
+  padding-top: 20px;
+  margin-bottom: 0px;
 }
