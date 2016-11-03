@@ -1,3 +1,11 @@
+* {
+  font-family: 'Taviraj', serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Rammetto One', cursive;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -51,7 +59,7 @@ footer.page-footer {
 
 .circle {
   max-height: 325px;
-  margin: 55px auto;
+  margin: 55px auto 0;
 }
 
 img.profile {
@@ -79,4 +87,8 @@ div.col.s3.long {
 
 .project {
   margin-bottom: 65px;
+}
+
+h4 {
+  margin: 35px 0;
 }
