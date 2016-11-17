@@ -117,4 +117,8 @@ h2.about {
   img.profile:hover {
     height: 225px;
   }
+  .secondback {
+    min-height: 850px
+
+  }
 }
