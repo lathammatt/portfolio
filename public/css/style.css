@@ -127,4 +127,7 @@ h2.about {
   .intro {
     font-size: .95rem;
   }
+  h2 {
+    font-size: 3rem;
+  }
 }
