@@ -83,6 +83,7 @@ h4 {
 
 .intro {
   margin: 30px;
+  font-size: 1.3rem;
 }
 
 h4.header {
@@ -95,7 +96,7 @@ h2.about {
 
 @media only screen and (max-width: 992px) {
   .parallax-container .section {
-    position: absolute;
+    /*position: absolute;*/
     top: 40%;
   }
   #index-banner .section {
@@ -118,7 +119,15 @@ h2.about {
     height: 225px;
   }
   .secondback {
-    min-height: 850px
-
+    min-height: 850px;
+  }
+  .row .col.s8 {
+    width: auto;
+  }
+  .intro {
+    font-size: .95rem;
+  }
+  h2 {
+    font-size: 3rem;
   }
 }
